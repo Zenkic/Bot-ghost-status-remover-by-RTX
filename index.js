@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["**Watching Valorant Lietuva**🔥"];
+const statusMessages = ["Watching Valorant Lietuva🔥"];
 
 
 let currentIndex = 0;
